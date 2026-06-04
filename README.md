@@ -16,7 +16,9 @@ Libs to download
 ## How to run the model
 ```
 py -3.12 Camera_YOLO.py
-``` 
+```
+If you need more information check the file it self, I wrote about it there  
+
 ## Data
 |<img height="260" src="./runs/train/exp4/val_batch0_labels.jpg" description="Raw frame" width="480"/>|
 |---------------------------------------------------------------------------------------|
