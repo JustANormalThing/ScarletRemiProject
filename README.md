@@ -3,8 +3,16 @@ This project is a trained model made using [YOLO5](https://github.com/ultralytic
 
 This project is about counting grape vine trees.
 
-## Geting started
+|<img height="260" src="./runs/train/exp4/val_batch1_pred.jpg" description="Raw frame" width="480"/>|
 
+
+## Geting started
+```
+I need to write here
+```
+```
+Libs to download 
+``` 
 ## How to run the model
 ```
 py -3.12 Camera_YOLO.py
