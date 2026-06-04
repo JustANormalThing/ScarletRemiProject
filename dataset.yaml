@@ -1,0 +1,5 @@
+train: C:/Users/Admin/Desktop/ReactProject/ProjectNew/ProjectThing/yolov5/dataset/train
+val: C:/Users/Admin/Desktop/ReactProject/ProjectNew/ProjectThing/yolov5/dataset/validation
+
+nc: 1  # число классов
+names: ['trunk']  # название класса
