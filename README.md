@@ -16,9 +16,9 @@ py -3.12 Camera_YOLO.py
 
 Here is all the data for and from traing my model
 
-|<img height="400" src="./runs/train/exp4/results.png" description="Raw frame" width="400"/>||<img height="400" src="./runs/train/exp4F1_curve.png" description="Raw frame" width="400"/>|
+|<img height="400" src="./runs/train/exp4/results.png" description="Raw frame" width="400"/>||<img height="400" src="./runs/train/exp4/F1_curve.png" description="Raw frame" width="400"/>|
 |---------------------------------------------------------------------------------------|
-|Results of validation                                                                                                    |
+|Results                                                                                                 |
 ## Credit
 This project is made using [YOLO5:](https://github.com/ultralytics/yolov5) all credit to them for making this possible
 
