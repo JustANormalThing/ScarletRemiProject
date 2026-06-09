@@ -8,10 +8,14 @@ This project is about counting grape vine trees.
 
 ## Geting started
 ```
-I need to write here
+git clone https://github.com/ultralytics/yolov5
 ```
+If you want to you can clone this.
+
+But all you need from this project is detectForTests.py Camera_YOLO.py and model from exp4 best.pt
+
 ```
-Libs to download 
+Libs to download pip install -r requirements.txt
 ``` 
 ## How to run the model
 ```
