@@ -1,7 +1,7 @@
 ## About project
-This project is a trained model made using [YOLO5](https://github.com/ultralytics/yolov5) view [credits](https://github.com/JustANormalThing/ScarletRemiProject#credit) 
+This project is a trained ML model made using [YOLO5](https://github.com/ultralytics/yolov5) view [credits](https://github.com/JustANormalThing/ScarletRemiProject#credit) 
 
-This project is about counting grape vine trees.
+This project is about counting grape vine trees using ML.
 
 |<img height="260" src="./runs/train/exp4/val_batch1_pred.jpg" description="Raw frame" width="480"/>|
 |<img height="260" src="./runs/train/exp4/val_batch0_pred.jpg" description="Raw frame" width="480"/>|
