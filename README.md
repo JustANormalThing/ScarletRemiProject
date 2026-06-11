@@ -4,7 +4,7 @@ This project is a trained model made using [YOLO5](https://github.com/ultralytic
 This project is about counting grape vine trees.
 
 |<img height="260" src="./runs/train/exp4/val_batch1_pred.jpg" description="Raw frame" width="480"/>|
-
+|<img height="260" src="./runs/train/exp4/val_batch0_pred.jpg" description="Raw frame" width="480"/>|
 
 ## Geting started
 ```
